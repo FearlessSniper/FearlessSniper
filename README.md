@@ -6,6 +6,8 @@ The most satisfying feeling is when your CP submission passes with all Green ACs
 
 Coding is fun when it works, coding is pain when it works, **against** you. So coding is just like life.
 
+Puzzles (CTF challenges included) is the romance for geeks. The affection is in the crafting, the warmth is in the solving.
+
 > Roses are red,
 > 
 > Violets are blue,
